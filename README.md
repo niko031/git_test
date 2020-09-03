@@ -1,0 +1,1 @@
+This is Niko's first Git project!
